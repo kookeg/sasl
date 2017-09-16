@@ -5,7 +5,8 @@ namespace Cooker\SASL;
  * Digest Trait 
  *
  * @package    Cooker 
- * @subpackage SASL * @author     master@kookeg.com 
+ * @subpackage SASL 
+ * @author     Cooker <thinklang0917@gmail.com> 
  */
 
 trait Digest 
